@@ -52,4 +52,3 @@ FastAPI auto-generates interactive API documentation. Once the server is running
 - **Swagger UI:** `http://127.0.0.1:8000/docs`
 - **ReDoc:** `http://127.0.0.1:8000/redoc`
 
-## Project Structure
