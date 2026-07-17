@@ -32,6 +32,10 @@ The API will be available at `http://127.0.0.1:8000`
 |--------|----------|-------------|
 | GET | `/` | Returns a welcome message |
 | GET | `/get-student/{student_id}` | Returns data for a specific student by ID |
+| GET | `/get-by-name` | Returns data for a specific student by name |
+| POST | `create-student/{student_id}` | Creates new student |
+| PUT | `update-student/{student_id}` | Updates existing student data |
+| DELETE | `delete-student/{student_id}` | Delete's student data |
 
 ## Example Response
 
